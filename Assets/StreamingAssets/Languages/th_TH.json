@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "ภาษา"
+      },
+      {
+        "key": "Volume",
+        "value": "ปริมาณ"
+      },
+      {
+        "key": "Options",
+        "value": "ตัวเลือก"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "กลับ"
+      },
+      {
+        "key": "Start",
+        "value": "เริ่ม"
+      },
+      {
+        "key": "ShopMain",
+        "value": "ร้านค้า"
+      },
+      {
+        "key": "Exit",
+        "value": "ทางออก"
+      },
+      {
+        "key": "Menu",
+        "value": "เมนู"
+      },
+      {
+        "key": "Level1",
+        "value": "ระดับ 1\n\n หลา"
+      },
+      {
+        "key": "Level2",
+        "value": "ระดับ 2\n\n โรงเรียน"
+      },
+      {
+        "key": "Level3",
+        "value": "ระดับ 3\n\n ร้านค้า"
+      },
+      {
+        "key": "Level4",
+        "value": "ระดับ 4\n\n คุก"
+      },
+      {
+        "key": "Level5",
+        "value": "ระดับ 5\n\n โรงพยาบาล"
+      },
+      {
+        "key": "Level6",
+        "value": "ระดับ 6\n\n โรงยิม"
+      },
+      {
+        "key": "Level7",
+        "value": "ระดับ 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "ระดับ 8\n\n พระราชวังปูติน"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "โหมดไม่มีที่สิ้นสุด"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "คุณเสร็จ"
+      },
+      {
+        "key": "Tap",
+        "value": "กดลูกศรขึ้นเพื่อดูกระโดด"
+      }
+  
+  
+    ]
+  
+  }

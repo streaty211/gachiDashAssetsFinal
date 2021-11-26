@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Γλώσσα"
+      },
+      {
+        "key": "Volume",
+        "value": "Τόμος"
+      },
+      {
+        "key": "Options",
+        "value": "Επιλογές"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Πίσω"
+      },
+      {
+        "key": "Start",
+        "value": "έναρξη"
+      },
+      {
+        "key": "ShopMain",
+        "value": "κατάστημα"
+      },
+      {
+        "key": "Exit",
+        "value": "έξοδος"
+      },
+      {
+        "key": "Menu",
+        "value": "μενού"
+      },
+      {
+        "key": "Level1",
+        "value": "επίπεδο 1 \n\n γιάρδες"
+      },
+      {
+        "key": "Level2",
+        "value": "επίπεδο 2\n\n σχολείο"
+      },
+      {
+        "key": "Level3",
+        "value": "επίπεδο 3\n\n κατάστημα"
+      },
+      {
+        "key": "Level4",
+        "value": "επίπεδο 4\n\n φυλακή"
+      },
+      {
+        "key": "Level5",
+        "value": "επίπεδο 5\n\n νοσοκομείο"
+      },
+      {
+        "key": "Level6",
+        "value": "επίπεδο 6\n\n γυμναστήριο"
+      },
+      {
+        "key": "Level7",
+        "value": "επίπεδο 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "επίπεδο 8\n\n παλάτι Πούτιν"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "ατελείωτη λειτουργία"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "τελειώσατε"
+      },
+      {
+        "key": "Tap",
+        "value": "πατήστε το βέλος 'πάνω' για να δείτε το άλμα"
+      }
+  
+  
+    ]
+  
+  }

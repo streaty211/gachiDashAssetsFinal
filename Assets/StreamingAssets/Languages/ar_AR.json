@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "لغة"
+      },
+      {
+        "key": "Volume",
+        "value": "الصوت"
+      },
+      {
+        "key": "Options",
+        "value": "خيارات"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "خلف"
+      },
+      {
+        "key": "Start",
+        "value": "يبدأ"
+      },
+      {
+        "key": "ShopMain",
+        "value": "محل"
+      },
+      {
+        "key": "Exit",
+        "value": "مخرج"
+      },
+      {
+        "key": "Menu",
+        "value": "قائمة طعام"
+      },
+      {
+        "key": "Level1",
+        "value": "مستوى 1 \n\n ساحات"
+      },
+      {
+        "key": "Level2",
+        "value": "مستوى 2\n\n مدرسة"
+      },
+      {
+        "key": "Level3",
+        "value": "مستوى 3\n\n محل"
+      },
+      {
+        "key": "Level4",
+        "value": "مستوى 4\n\n سجن"
+      },
+      {
+        "key": "Level5",
+        "value": "مستوى 5\n\n مستشفى"
+      },
+      {
+        "key": "Level6",
+        "value": "مستوى 6\n\n نادي رياضي"
+      },
+      {
+        "key": "Level7",
+        "value": "مستوى 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "مستوى 8\n\n قصر بوتين"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "وضع لا نهاية له"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "انتهيت"
+      },
+      {
+        "key": "Tap",
+        "value": "اضغط على السهم 'لأعل' لرؤية القفز"
+      }
+  
+  
+    ]
+  
+  }

@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Ngôn ngữ"
+      },
+      {
+        "key": "Volume",
+        "value": "Âm lượng"
+      },
+      {
+        "key": "Options",
+        "value": "Tùy chọn"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Mặt sau"
+      },
+      {
+        "key": "Start",
+        "value": "Bắt đầu"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Cửa hàng"
+      },
+      {
+        "key": "Exit",
+        "value": "Lối ra"
+      },
+      {
+        "key": "Menu",
+        "value": "Thực đơn"
+      },
+      {
+        "key": "Level1",
+        "value": "Cấp độ 1\n\n Bãi"
+      },
+      {
+        "key": "Level2",
+        "value": "Cấp độ 2\n\n Trường học"
+      },
+      {
+        "key": "Level3",
+        "value": "Cấp độ 3\n\n Cửa hàng"
+      },
+      {
+        "key": "Level4",
+        "value": "Cấp độ 4\n\n nhà tù"
+      },
+      {
+        "key": "Level5",
+        "value": "Cấp độ 5\n\n Bệnh viện"
+      },
+      {
+        "key": "Level6",
+        "value": "Cấp độ 6\n\n Phòng thể dục"
+      },
+      {
+        "key": "Level7",
+        "value": "Cấp độ 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Cấp độ 8\n\n cung điện putin"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Chế độ vô tận"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "bạn đã hoàn thành"
+      },
+      {
+        "key": "Tap",
+        "value": "nhấn mũi tên lên để xem bước nhảy"
+      }
+  
+  
+    ]
+  
+  }

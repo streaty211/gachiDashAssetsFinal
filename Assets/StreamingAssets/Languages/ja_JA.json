@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "言語"
+      },
+      {
+        "key": "Volume",
+        "value": "ボリューム"
+      },
+      {
+        "key": "Options",
+        "value": "オプション"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "バック"
+      },
+      {
+        "key": "Start",
+        "value": "スタート"
+      },
+      {
+        "key": "ShopMain",
+        "value": "ショップ"
+      },
+      {
+        "key": "Exit",
+        "value": "出口"
+      },
+      {
+        "key": "Menu",
+        "value": "メニュー"
+      },
+      {
+        "key": "Level1",
+        "value": "レベル 1 \n\n ヤード"
+      },
+      {
+        "key": "Level2",
+        "value": "レベル 2\n\n 学校"
+      },
+      {
+        "key": "Level3",
+        "value": "レベル 3\n\n ショップ"
+      },
+      {
+        "key": "Level4",
+        "value": "レベル 4\n\n 牢屋"
+      },
+      {
+        "key": "Level5",
+        "value": "レベル 5\n\n 病院"
+      },
+      {
+        "key": "Level6",
+        "value": "レベル 6\n\n ジム"
+      },
+      {
+        "key": "Level7",
+        "value": "レベル 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "レベル 8\n\n プーチン宮殿"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "エンドレスモード"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "終わった"
+      },
+      {
+        "key": "Tap",
+        "value": "上矢印を押してジャンプを見る"
+      }
+  
+  
+    ]
+  
+  }

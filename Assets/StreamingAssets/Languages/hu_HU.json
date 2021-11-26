@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Nyelv"
+      },
+      {
+        "key": "Volume",
+        "value": "Kötet"
+      },
+      {
+        "key": "Options",
+        "value": "Opciók"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Vissza"
+      },
+      {
+        "key": "Start",
+        "value": "Start"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Shop"
+      },
+      {
+        "key": "Exit",
+        "value": "Kilépés"
+      },
+      {
+        "key": "Menu",
+        "value": "Menü"
+      },
+      {
+        "key": "Level1",
+        "value": "Szint 1\n\n Yardok"
+      },
+      {
+        "key": "Level2",
+        "value": "Szint 2\n\n Iskola"
+      },
+      {
+        "key": "Level3",
+        "value": "Szint 3\n\n Shop"
+      },
+      {
+        "key": "Level4",
+        "value": "Szint 4\n\n börtön"
+      },
+      {
+        "key": "Level5",
+        "value": "Szint 5\n\n Kórház"
+      },
+      {
+        "key": "Level6",
+        "value": "Szint 6\n\n Edzőterem"
+      },
+      {
+        "key": "Level7",
+        "value": "Szint 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Szint 8\n\n putyini palota"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Végtelen üzemmód"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "befejezted"
+      },
+      {
+        "key": "Tap",
+        "value": "nyomja meg a felfelé mutató nyilat az ugrás megtekintéséhez"
+      }
+  
+  
+    ]
+  
+  }

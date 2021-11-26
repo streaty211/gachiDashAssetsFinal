@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Taal"
+      },
+      {
+        "key": "Volume",
+        "value": "Volume"
+      },
+      {
+        "key": "Options",
+        "value": "Opties"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Terug"
+      },
+      {
+        "key": "Start",
+        "value": "Start"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Winkelen"
+      },
+      {
+        "key": "Exit",
+        "value": "Exit"
+      },
+      {
+        "key": "Menu",
+        "value": "Nabídka"
+      },
+      {
+        "key": "Level1",
+        "value": "Niveau 1 \n\n Yards"
+      },
+      {
+        "key": "Level2",
+        "value": "Niveau 2\n\n School"
+      },
+      {
+        "key": "Level3",
+        "value": "Niveau 3\n\n Winkelen"
+      },
+      {
+        "key": "Level4",
+        "value": "Niveau 4\n\n gevangenis"
+      },
+      {
+        "key": "Level5",
+        "value": "Niveau 5\n\n Ziekenhuis"
+      },
+      {
+        "key": "Level6",
+        "value": "Niveau 6\n\n Sportschool"
+      },
+      {
+        "key": "Level7",
+        "value": "Niveau 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Niveau 8\n\n putin paleis"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Eindeloze modus"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "je bent klaar"
+      },
+      {
+        "key": "Tap",
+        "value": "druk op pijltje 'omhoog' om sprong te zien"
+      }
+  
+  
+    ]
+  
+  }

@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Sprog"
+      },
+      {
+        "key": "Volume",
+        "value": "Volumen"
+      },
+      {
+        "key": "Options",
+        "value": "Indstillinger"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Tilbage"
+      },
+      {
+        "key": "Start",
+        "value": "Start"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Butik"
+      },
+      {
+        "key": "Exit",
+        "value": "Afslut"
+      },
+      {
+        "key": "Menu",
+        "value": "Menu"
+      },
+      {
+        "key": "Level1",
+        "value": "Niveau 1 \n\n Yards"
+      },
+      {
+        "key": "Level2",
+        "value": "Niveau 2\n\n Skole"
+      },
+      {
+        "key": "Level3",
+        "value": "Niveau 3\n\n Butik"
+      },
+      {
+        "key": "Level4",
+        "value": "Niveau 4\n\n fængsel"
+      },
+      {
+        "key": "Level5",
+        "value": "Niveau 5\n\n Hospital"
+      },
+      {
+        "key": "Level6",
+        "value": "Niveau 6\n\n Gym"
+      },
+      {
+        "key": "Level7",
+        "value": "Niveau 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Niveau 8\n\n Putin-paladset"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Uendelig tilstand"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "du er færdig"
+      },
+      {
+        "key": "Tap",
+        "value": "tryk på pil op for at se spring"
+      }
+  
+  
+    ]
+  
+  }

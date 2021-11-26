@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "key": "Language",
+      "value": "语"
+    },
+    {
+      "key": "Volume",
+      "value": "体积"
+    },
+    {
+      "key": "Options",
+      "value": "选项"
+    },
+    {
+      "key": "OptionsBack",
+      "value": "后退"
+    },
+    {
+      "key": "Start",
+      "value": "开始"
+    },
+    {
+      "key": "ShopMain",
+      "value": "店铺"
+    },
+    {
+      "key": "Exit",
+      "value": "出口"
+    },
+    {
+      "key": "Menu",
+      "value": "菜单"
+    },
+    {
+      "key": "Level1",
+      "value": "等级 1\n\n 码"
+    },
+    {
+      "key": "Level2",
+      "value": "等级 2\n\n 学校"
+    },
+    {
+      "key": "Level3",
+      "value": "等级 3\n\n 店铺"
+    },
+    {
+      "key": "Level4",
+      "value": "等级 4\n\n 监狱"
+    },
+    {
+      "key": "Level5",
+      "value": "等级 5\n\n 医院"
+    },
+    {
+      "key": "Level6",
+      "value": "等级 6\n\n 健身房"
+    },
+    {
+      "key": "Level7",
+      "value": "等级 7\n\n 班亚"
+    },
+    {
+      "key": "Level8",
+      "value": "等级 8\n\n 普京宫"
+    },
+    {
+      "key": "EndlessMode",
+      "value": "无尽模式"
+    },
+    {
+      "key": "Death",
+      "value": "死亡"
+    },
+    {
+      "key": "Finish",
+      "value": "woo \n 你完成了"
+    },
+
+    {
+      "key": "Tap",
+      "value": "点 'up' 箭头 看到跳跃"
+    }
+
+
+  ]
+
+}

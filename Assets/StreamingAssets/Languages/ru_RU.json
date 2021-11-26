@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "key": "Language",
+      "value": "Язык"
+    },
+    {
+      "key": "Volume",
+      "value": "Звук"
+    },
+    {
+      "key": "Options",
+      "value": "Опции"
+    },
+    {
+      "key": "OptionsBack",
+      "value": "Назад"
+    },
+    {
+      "key": "Start",
+      "value": "Начать"
+    },
+    {
+      "key": "ShopMain",
+      "value": "Магазин"
+    },
+    {
+      "key": "Exit",
+      "value": "Выход"
+    },
+    {
+      "key": "Menu",
+      "value": "Меню"
+    },
+    {
+      "key": "Level1",
+      "value": "Уровень 1\n\n Дворы"
+    },
+    {
+      "key": "Level2",
+      "value": "Уровень 2\n\n Школа"
+    },
+    {
+      "key": "Level3",
+      "value": "Уровень 3\n\n Магаз"
+    },
+    {
+      "key": "Level4",
+      "value": "Уровень 4\n\n Тюрьма"
+    },
+    {
+      "key": "Level5",
+      "value": "Уровень 5\n\n Больница"
+    },
+    {
+      "key": "Level6",
+      "value": "уровень 6\n\n качалка"
+    },
+    {
+      "key": "Level7",
+      "value": "Уровень 7\n\n баня"
+    },
+    {
+      "key": "Level8",
+      "value": "уровень 8\n\n дворец \n путина"
+    },
+    {
+      "key": "EndlessMode",
+      "value": "Бесконечный \n\n Режим"
+    },
+    {
+      "key": "Death",
+      "value": "Смерти"
+    },
+    {
+      "key": "Finish",
+      "value": "вуу \n ты финишировал"
+    },
+    {
+      "key": "Tap",
+      "value": "нажми на стрелку верх \nчтобы увидеть прыжок"
+    }
+
+
+
+  ]
+
+}

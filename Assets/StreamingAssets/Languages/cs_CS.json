@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Jazyk"
+      },
+      {
+        "key": "Volume",
+        "value": "Svazek"
+      },
+      {
+        "key": "Options",
+        "value": "Možnosti"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Zpět"
+      },
+      {
+        "key": "Start",
+        "value": "Start"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Obchod"
+      },
+      {
+        "key": "Exit",
+        "value": "Exit"
+      },
+      {
+        "key": "Menu",
+        "value": "Nabídka"
+      },
+      {
+        "key": "Level1",
+        "value": "Úroveň 1 \n\n Yardy"
+      },
+      {
+        "key": "Level2",
+        "value": "Úroveň 2\n\n Škola"
+      },
+      {
+        "key": "Level3",
+        "value": "Úroveň 3\n\n Obchod"
+      },
+      {
+        "key": "Level4",
+        "value": "Úroveň 4\n\n vězení"
+      },
+      {
+        "key": "Level5",
+        "value": "Úroveň 5\n\n Nemocnice"
+      },
+      {
+        "key": "Level6",
+        "value": "Úroveň 6\n\n Tělocvična"
+      },
+      {
+        "key": "Level7",
+        "value": "Úroveň 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Úroveň 8\n\n Putinův palác"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Nekonečný režim"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "jste skončili"
+      },
+      {
+        "key": "Tap",
+        "value": "stiskněte šipku nahoru pro zobrazení skoku"
+      }
+  
+  
+    ]
+  
+  }

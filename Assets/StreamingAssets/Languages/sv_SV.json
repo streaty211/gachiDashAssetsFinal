@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Språk"
+      },
+      {
+        "key": "Volume",
+        "value": "Volym"
+      },
+      {
+        "key": "Options",
+        "value": "Alternativ"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Tillbaka"
+      },
+      {
+        "key": "Start",
+        "value": "Starta"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Butik"
+      },
+      {
+        "key": "Exit",
+        "value": "Avsluta"
+      },
+      {
+        "key": "Menu",
+        "value": "Meny"
+      },
+      {
+        "key": "Level1",
+        "value": "Nivå 1 \n\n Yards"
+      },
+      {
+        "key": "Level2",
+        "value": "Nivå 2\n\n Skola"
+      },
+      {
+        "key": "Level3",
+        "value": "Nivå 3\n\n Butik"
+      },
+      {
+        "key": "Level4",
+        "value": "Nivå 4\n\n fängelse"
+      },
+      {
+        "key": "Level5",
+        "value": "Nivå 5\n\n Sjukhus"
+      },
+      {
+        "key": "Level6",
+        "value": "Nivå 6\n\n Gym"
+      },
+      {
+        "key": "Level7",
+        "value": "Nivå 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Nivå 8\n\n Putins palats"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Endlöst läge"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "du har avslutat"
+      },
+      {
+        "key": "Tap",
+        "value": "Tryck på uppåtpilen för att se hopp"
+      }
+  
+  
+    ]
+  
+  }

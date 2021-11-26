@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Språk"
+      },
+      {
+        "key": "Volume",
+        "value": "Volum"
+      },
+      {
+        "key": "Options",
+        "value": "Alternativer"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Tilbake"
+      },
+      {
+        "key": "Start",
+        "value": "start"
+      },
+      {
+        "key": "ShopMain",
+        "value": "butikk"
+      },
+      {
+        "key": "Exit",
+        "value": "exit"
+      },
+      {
+        "key": "Menu",
+        "value": "Meny"
+      },
+      {
+        "key": "Level1",
+        "value": "nivå 1 \n\n meter"
+      },
+      {
+        "key": "Level2",
+        "value": "nivå 2\n\n Skole"
+      },
+      {
+        "key": "Level3",
+        "value": "nivå 3\n\n Butikk"
+      },
+      {
+        "key": "Level4",
+        "value": "nivå 4\n\n fengsel"
+      },
+      {
+        "key": "Level5",
+        "value": "nivå 5\n\n Sykehus"
+      },
+      {
+        "key": "Level6",
+        "value": "nivå 6\n\n Treningsstudio"
+      },
+      {
+        "key": "Level7",
+        "value": "nivå 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "nivå 8\n\n putin palace"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Uendelig modus"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "du ble ferdig"
+      },
+      {
+        "key": "Tap",
+        "value": "Trykk på pil opp for å se hopp"
+      }
+  
+  
+    ]
+  
+  }

@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Dilim"
+      },
+      {
+        "key": "Volume",
+        "value": "Ses"
+      },
+      {
+        "key": "Options",
+        "value": "Seçenekler"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Geri"
+      },
+      {
+        "key": "Start",
+        "value": "Başlangıç"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Mağaza"
+      },
+      {
+        "key": "Exit",
+        "value": "çıkış"
+      },
+      {
+        "key": "Menu",
+        "value": "Menü"
+      },
+      {
+        "key": "Level1",
+        "value": "Seviye 1\n\n yarda"
+      },
+      {
+        "key": "Level2",
+        "value": "Seviye 2\n\n Okul"
+      },
+      {
+        "key": "Level3",
+        "value": "Seviye 3\n\n Mağaza"
+      },
+      {
+        "key": "Level4",
+        "value": "Seviye 4\n\n hapishane"
+      },
+      {
+        "key": "Level5",
+        "value": "Seviye 5\n\n Hastane"
+      },
+      {
+        "key": "Level6",
+        "value": "Seviye 6\n\n Jimnastik"
+      },
+      {
+        "key": "Level7",
+        "value": "Seviye 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Seviye 8\n\n putin sarayı"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "sonsuz mod"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "bitirdin"
+      },
+      {
+        "key": "Tap",
+        "value": "atlamayı görmek için yukarı oka basın"
+      }
+  
+  
+    ]
+  
+  }

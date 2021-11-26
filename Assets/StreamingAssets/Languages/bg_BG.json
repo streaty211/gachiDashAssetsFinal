@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Език"
+      },
+      {
+        "key": "Volume",
+        "value": "Обем"
+      },
+      {
+        "key": "Options",
+        "value": "Опции"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Обратно"
+      },
+      {
+        "key": "Start",
+        "value": "Начало"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Магазин"
+      },
+      {
+        "key": "Exit",
+        "value": "Изход"
+      },
+      {
+        "key": "Menu",
+        "value": "Меню"
+      },
+      {
+        "key": "Level1",
+        "value": "Ниво 1 \n\n Ярдове"
+      },
+      {
+        "key": "Level2",
+        "value": "Ниво 2\n\n Училище"
+      },
+      {
+        "key": "Level3",
+        "value": "Ниво 3\n\n Магазин"
+      },
+      {
+        "key": "Level4",
+        "value": "Ниво 4\n\n затвор"
+      },
+      {
+        "key": "Level5",
+        "value": "Ниво 5\n\n Болница"
+      },
+      {
+        "key": "Level6",
+        "value": "Ниво 6\n\n Спортна зала"
+      },
+      {
+        "key": "Level7",
+        "value": "Ниво 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Ниво 8\n\n дворецът на Путин"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Безкраен режим"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "сте завършили"
+      },
+      {
+        "key": "Tap",
+        "value": "натиснете стрелка нагоре, за да видите скок"
+      }
+  
+  
+    ]
+  
+  }

@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Мова"
+      },
+      {
+        "key": "Volume",
+        "value": "Обсяг"
+      },
+      {
+        "key": "Options",
+        "value": "Варіанти"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Назад"
+      },
+      {
+        "key": "Start",
+        "value": "Почніть"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Магазин"
+      },
+      {
+        "key": "Exit",
+        "value": "Вихід"
+      },
+      {
+        "key": "Menu",
+        "value": "Меню"
+      },
+      {
+        "key": "Level1",
+        "value": "Рівень 1 \n\n Дворів"
+      },
+      {
+        "key": "Level2",
+        "value": "Рівень 2\n\n Школа"
+      },
+      {
+        "key": "Level3",
+        "value": "Рівень 3\n\n Магазин"
+      },
+      {
+        "key": "Level4",
+        "value": "Рівень 4\n\n в'язниця"
+      },
+      {
+        "key": "Level5",
+        "value": "Рівень 5\n\n Лікарня"
+      },
+      {
+        "key": "Level6",
+        "value": "Рівень 6\n\n Gym"
+      },
+      {
+        "key": "Level7",
+        "value": "Рівень 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Рівень 8\n\n палац Путін"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Нескінченний режим"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "ти закінчив"
+      },
+      {
+        "key": "Tap",
+        "value": "натисніть стрілку вгору, щоб побачити стрибок"
+      }
+  
+  
+    ]
+  
+  }

@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Kieli"
+      },
+      {
+        "key": "Volume",
+        "value": "Äänenvoimakkuus"
+      },
+      {
+        "key": "Options",
+        "value": "Asetukset"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Takaisin"
+      },
+      {
+        "key": "Start",
+        "value": "alkaa"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Myymälä"
+      },
+      {
+        "key": "Exit",
+        "value": "Lopeta"
+      },
+      {
+        "key": "Menu",
+        "value": "Valikko"
+      },
+      {
+        "key": "Level1",
+        "value": "Taso 1 \n\n Pihat"
+      },
+      {
+        "key": "Level2",
+        "value": "Taso 2\n\n Koulu"
+      },
+      {
+        "key": "Level3",
+        "value": "Taso 3\n\n Myymälä"
+      },
+      {
+        "key": "Level4",
+        "value": "Taso 4\n\n vankilaan"
+      },
+      {
+        "key": "Level5",
+        "value": "Taso 5\n\n Sairaala"
+      },
+      {
+        "key": "Level6",
+        "value": "Taso 6\n\n kuntosali"
+      },
+      {
+        "key": "Level7",
+        "value": "Taso 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Taso 8\n\n putinin palatsi"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Loputon tila"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "sinä lopetit"
+      },
+      {
+        "key": "Tap",
+        "value": "paina ylänuolta nähdäksesi hypyn"
+      }
+  
+  
+    ]
+  
+  }

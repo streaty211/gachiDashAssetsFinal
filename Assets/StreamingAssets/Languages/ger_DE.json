@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "key": "Language",
+      "value": "Sprache"
+    },
+    {
+      "key": "Volume",
+      "value": "Volumen"
+    },
+    {
+      "key": "Options",
+      "value": "Optionen"
+    },
+    {
+      "key": "OptionsBack",
+      "value": "Zurück"
+    },
+    {
+      "key": "Start",
+      "value": "Start"
+    },
+    {
+      "key": "ShopMain",
+      "value": "Einkaufen"
+    },
+    {
+      "key": "Exit",
+      "value": "Ausgang"
+    },
+    {
+      "key": "Menu",
+      "value": "Speisekarte"
+    },
+    {
+      "key": "Level1",
+      "value": "Niveau 1\n\n Höfe"
+    },
+    {
+      "key": "Level2",
+      "value": "Niveau 2\n\n Schule"
+    },
+    {
+      "key": "Level3",
+      "value": "Niveau 3\n\n Einkaufen"
+    },
+    {
+      "key": "Level4",
+      "value": "Niveau 4\n\n Gefängnis"
+    },
+    {
+      "key": "Level5",
+      "value": "Niveau 5\n\n Krankenhaus"
+    },
+    {
+      "key": "Level6",
+      "value": "Niveau 6\n\n Gym"
+    },
+    {
+      "key": "Level7",
+      "value": "Niveau 7\n\n banya"
+    },
+    {
+      "key": "Level8",
+      "value": "Niveau 8\n\n putin \n Palast"
+    },
+    {
+      "key": "EndlessMode",
+      "value": "endloser \n\n Modus"
+    },
+    {
+      "key": "Death",
+      "value": "Tod"
+    },
+    {
+      "key": "Finish",
+      "value": "woo \n du bist Fertig"
+    },
+    {
+      "key": "Tap",
+      "value": "Tippen Sie auf den Pfeil nach oben, um den Sprung zu sehen"
+    }
+
+
+  ]
+
+}

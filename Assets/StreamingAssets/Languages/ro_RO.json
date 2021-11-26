@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Limba"
+      },
+      {
+        "key": "Volume",
+        "value": "Volum"
+      },
+      {
+        "key": "Options",
+        "value": "Opțiuni"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Înapoi"
+      },
+      {
+        "key": "Start",
+        "value": "Start"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Magazin"
+      },
+      {
+        "key": "Exit",
+        "value": "Ieșire"
+      },
+      {
+        "key": "Menu",
+        "value": "Meniu"
+      },
+      {
+        "key": "Level1",
+        "value": "Nivel 1 \n\n Yards"
+      },
+      {
+        "key": "Level2",
+        "value": "Nivel 2\n\n Școala"
+      },
+      {
+        "key": "Level3",
+        "value": "Nivel 3\n\n Magazin"
+      },
+      {
+        "key": "Level4",
+        "value": "Nivel 4\n\n închisoare"
+      },
+      {
+        "key": "Level5",
+        "value": "Nivel 5\n\n Spitalul"
+      },
+      {
+        "key": "Level6",
+        "value": "Nivel 6\n\n Sala de sport"
+      },
+      {
+        "key": "Level7",
+        "value": "Nivel 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Nivel 8\n\n palatul putin"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Modul fără sfârșit"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "ai terminat"
+      },
+      {
+        "key": "Tap",
+        "value": "apăsați săgeata 'sus' pentru a vedea saltul"
+      }
+  
+  
+    ]
+  
+  }

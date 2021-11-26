@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "Język"
+      },
+      {
+        "key": "Volume",
+        "value": "Tom"
+      },
+      {
+        "key": "Options",
+        "value": "Opcje"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "Powrót"
+      },
+      {
+        "key": "Start",
+        "value": "Start"
+      },
+      {
+        "key": "ShopMain",
+        "value": "Sklep"
+      },
+      {
+        "key": "Exit",
+        "value": "Wyjście"
+      },
+      {
+        "key": "Menu",
+        "value": "Menu"
+      },
+      {
+        "key": "Level1",
+        "value": "Poziom 1\n\n Jardy"
+      },
+      {
+        "key": "Level2",
+        "value": "Poziom 2\n\n Szkoła"
+      },
+      {
+        "key": "Level3",
+        "value": "Poziom 3\n\n Sklep"
+      },
+      {
+        "key": "Level4",
+        "value": "Poziom 4\n\n więzienie"
+      },
+      {
+        "key": "Level5",
+        "value": "Poziom 5\n\n Szpital"
+      },
+      {
+        "key": "Level6",
+        "value": "Poziom 6\n\n Siłownia"
+      },
+      {
+        "key": "Level7",
+        "value": "Poziom 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "Poziom 8\n\n pałac putina"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "Tryb nieskończony"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "skończyłeś"
+      },
+      {
+        "key": "Tap",
+        "value": "naciśnij strzałkę w górę, aby zobaczyć skok"
+      }
+  
+  
+    ]
+  
+  }

@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "key": "Language",
+      "value": "Langue"
+    },
+    {
+      "key": "Volume",
+      "value": "le volume"
+    },
+    {
+      "key": "Options",
+      "value": "Options"
+    },
+    {
+      "key": "OptionsBack",
+      "value": "arrière"
+    },
+    {
+      "key": "Start",
+      "value": "début"
+    },
+    {
+      "key": "ShopMain",
+      "value": "magasin"
+    },
+    {
+      "key": "Exit",
+      "value": "Sortir"
+    },
+    {
+      "key": "Menu",
+      "value": "Menu"
+    },
+    {
+      "key": "Level1",
+      "value": "Niveau 1\n\n verges"
+    },
+    {
+      "key": "Level2",
+      "value": "Niveau 2\n\n L'école"
+    },
+    {
+      "key": "Level3",
+      "value": "Niveau 3\n\n magasin"
+    },
+    {
+      "key": "Level4",
+      "value": "Niveau 3\n\n prison"
+    },
+    {
+      "key": "Level5",
+      "value": "Niveau 5\n\n Hôpital"
+    },
+    {
+      "key": "Level6",
+      "value": "Niveau 6\n\n Gym"
+    },
+    {
+      "key": "Level7",
+      "value": "Niveau 7\n\n banya"
+    },
+    {
+      "key": "Level8",
+      "value": "Niveau 8\n\n putin \n palais"
+    },
+    {
+      "key": "EndlessMode",
+      "value": "Mode \n\n sans fin"
+    },
+    {
+      "key": "Finish",
+      "value": "woo \n vous avez terminé"
+    },
+    {
+      "key": "Tap",
+      "value": "tapez sur la flèche 'haut' pour voir le saut"
+    }
+  ]
+}

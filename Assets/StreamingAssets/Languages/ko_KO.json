@@ -1,0 +1,87 @@
+{
+    "items": [
+      {
+        "key": "Language",
+        "value": "언어"
+      },
+      {
+        "key": "Volume",
+        "value": "용량"
+      },
+      {
+        "key": "Options",
+        "value": "옵션"
+      },
+      {
+        "key": "OptionsBack",
+        "value": "뒤"
+      },
+      {
+        "key": "Start",
+        "value": "시작"
+      },
+      {
+        "key": "ShopMain",
+        "value": "가게"
+      },
+      {
+        "key": "Exit",
+        "value": "출구"
+      },
+      {
+        "key": "Menu",
+        "value": "메뉴"
+      },
+      {
+        "key": "Level1",
+        "value": "수준 1\n\n 야드"
+      },
+      {
+        "key": "Level2",
+        "value": "수준 2\n\n 학교"
+      },
+      {
+        "key": "Level3",
+        "value": "수준 3\n\n 가게"
+      },
+      {
+        "key": "Level4",
+        "value": "수준 4\n\n 교도소"
+      },
+      {
+        "key": "Level5",
+        "value": "수준 5\n\n 병원"
+      },
+      {
+        "key": "Level6",
+        "value": "수준 6\n\n 체육관"
+      },
+      {
+        "key": "Level7",
+        "value": "수준 7\n\n banya"
+      },
+      {
+        "key": "Level8",
+        "value": "수준 8\n\n 푸틴 궁전"
+      },
+      {
+        "key": "EndlessMode",
+        "value": "무한 모드"
+      },
+      {
+        "key": "Death",
+        "value": "Death"
+      },
+      {
+        "key": "Finish",
+        "value": "너는 끝났다"
+      },
+      {
+        "key": "Tap",
+        "value": "점프를 보려면 위쪽 화살표를 누르십시오."
+      }
+  
+  
+    ]
+  
+  }
